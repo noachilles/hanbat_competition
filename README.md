@@ -30,8 +30,8 @@
 
 ### 분석 결과 시각화 
 * QGIS 지도를 사용해 법정동 단위로 1인당 평균 소비 금액과 MZ세대 평균 소비 금액 분포를 지도상에 표시    
-<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig4.png" width=50%/></div>
-<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig5.png" width=50%/></div>
+<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig4.png" width=30%/></div>
+<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig5.png" width=30%/></div>
 <div align="center">fig 4. 좌: 대전 내 법정동별 1인당 평균 소비 금액, 우: 대전 내 법정동별 MZ세대 평균 소비 금액</div>
 
 * Pi-chart로 지역 간 소비 및 소득 분포를 도식화하고 특성을 비교  
