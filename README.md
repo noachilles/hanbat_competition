@@ -34,11 +34,11 @@
 <div align="center">fig 4. 위: 대전 내 법정동별 1인당 평균 소비 금액, 아래: 대전 내 법정동별 MZ세대 평균 소비 금액</div>
 
 * Pi-chart로 지역 간 소비 및 소득 분포를 도식화하고 특성을 비교  
-<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/git6.png" width=80%/></div>
+<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/git6.png" width=60%/></div>
 <div align="center">fig 5. Pi-chart 기준</div>
 
 ## 분석 결과 및 요약
 * 법정동 단위 간 비교를 통해 MZ세대의 소비 경향에 가장 큰 영향을 끼치는 요인을 분석해 정리한 결과, 생활옇 주택수의 규모가 가장 큰 영향을 끼치는 것으로 드러남  
 **따라서** 1인 ~ 2인 가구의 생활 인프라 구축을 제안  
-<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig7.png" width=80%/></div>
+<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig7.png" width=60%/></div>
 <div align="center">fig 6. 분석 결과 시각화</div>
