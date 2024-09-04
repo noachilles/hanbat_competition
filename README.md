@@ -25,13 +25,13 @@
 ### 데이터 분석  
 * 각 변수에 대한 correlation 값을 추출하고 분석해 그래프로 제작함  
 * 후진소거법을 사용해 교차 검증을 거쳐 학습에 활용할 attribute를 결정함  
-<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig3.png"></div>
+<div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig3.png" width=50%></div>
 <div align="center">fig 3. correlation matrix</div>
 
 ### 분석 결과 시각화 
 * QGIS 지도를 사용해 법정동 단위로 1인당 평균 소비 금액과 MZ세대 평균 소비 금액 분포를 지도상에 표시    
 <div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig4.png" width=50%/></div><div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/fig5.png" width=50%/></div>
-<div align="center">fig 4. 좌: 대전 내 법정동별 1인당 평균 소비 금액, 우: 대전 내 법정동별 MZ세대 평균 소비 금액</div>
+<div align="center">fig 4. 위: 대전 내 법정동별 1인당 평균 소비 금액, 아래: 대전 내 법정동별 MZ세대 평균 소비 금액</div>
 
 * Pi-chart로 지역 간 소비 및 소득 분포를 도식화하고 특성을 비교  
 <div align="center"><img src="https://github.com/noachilles/hanbat_competition/blob/main/assets/git6.png" width=80%/></div>
